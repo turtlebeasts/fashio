@@ -1,10 +1,9 @@
 import { useState } from "react";
-import { motion } from "motion/react";
 import PageVeil from "./components/PageVeil";
 import SplitSequence from "./components/SplitSequence";
 import BagsGrid from "./sections/BagsGrid";
 import Story from "./sections/Story";
-import LookbookCarousel from "./sections/LookBookCarousel"; // fixed case
+import LookbookCarousel from "./sections/LookbookCarousel"; // fixed case
 import HorizontalParallaxCarousel from "./sections/HorizontalParallaxCarousel";
 import CustomCursor from "./components/CustomCursor";
 import Magnetic from "./components/Magnetic";
